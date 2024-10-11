@@ -1,0 +1,4 @@
+datasets==2.4.0
+matplotlib==3.5.1
+torch==1.13.1+cu117
+tqdm==4.66.1
